@@ -15,6 +15,7 @@ After many levels of gameplay:
 ![Beginning of gameplay](doc/screenshot_04.png)
 
 YouTube:
+
 [![Dino Math Gameplay](http://img.youtube.com/vi/WZyuaUp8wBc/0.jpg)](http://www.youtube.com/watch?v=WZyuaUp8wBc "Dino Math Gameplay")
 
 ## 3 Build Instructions (Ubuntu)
